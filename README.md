@@ -1,5 +1,5 @@
 # GB/GBC/GBA Emulator Launcher
-##Small Launcher for GB/GBC/GBA ROMs
+## Small Launcher for GB/GBC/GBA ROMs
 
 I happen to always have several emulators for my GameBoy, GameBoy Color and GameBoy Advance ROMS, and I use one or another depending on the situation:
 - If I use a GB/GBC ROM which needs cable link connection, I use [BGB](https://bgb.bircd.org/).
