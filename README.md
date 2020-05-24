@@ -1,4 +1,5 @@
 # GB/GBC/GBA Emulator Launcher
+![Configuration window](https://github.com/ladbsoft/GB-GBC-GBA_Emulator_Launcher/blob/master/ConfigurationWindow.png "Configuration Window")
 ## Small Launcher for GB/GBC/GBA ROMs
 
 I happen to always have several emulators for my GameBoy, GameBoy Color and GameBoy Advance ROMS, and I use one or another depending on the situation:
